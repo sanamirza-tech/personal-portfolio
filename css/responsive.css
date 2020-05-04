@@ -1,0 +1,40 @@
+/*mobile device*/
+@media only screen and(min-width: 425px)and(max-width:635px) {
+	#myvideo{
+		width: auto;
+	}
+	.introduction h1{
+		font-size: 1.5rem;
+	}
+    .introduction h2{
+		font-size: 3.5rem;
+	}
+
+    #projects{
+    	padding: 4rem 1rem;
+    }
+    #projects h2 {
+        font-size: 2.5em;
+        color: #E0FBFC;
+    }
+    .projects-container{
+		width: 100%;
+	}
+    .project-tile {
+    max-width: 100%;
+    margin: 20px;
+    }
+
+
+	#contact h2{
+		top: 20%;
+		font-size: 3.5em;
+	}
+	.social {
+    top: 30%;
+    }
+    .social a{
+    	font-size: 3.5em;
+    }
+	
+}*/*/
